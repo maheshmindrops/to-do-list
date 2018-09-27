@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": 1,
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "port": 1338,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": 1,
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "port": 1338,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": 1,
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "port": 1338,
+    "dialect": "postgres"
+  }
+}
